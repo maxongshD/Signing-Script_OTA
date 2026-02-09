@@ -3,7 +3,8 @@
 echo "This script will generate Android keys for signing builds."
 
 # Define the subject line
-subject='/C=UA/ST=Kharkiv/L=Kharkiv oblast/O=LineageOS/OU=LineageOS/CN=LineageOS/emailAddress=maxxshishkin@gmail.com'
+subject='/C=UA/ST=Kharkiv/L=Kharkiv oblast/O=LineageOS/OU=LineageOS/CN=LineageOS/emailAddress=maxxshishkin@gmail.com
+'
 
 # Print the subject line
 echo "Using Subject Line:"
